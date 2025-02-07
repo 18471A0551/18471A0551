@@ -23,10 +23,11 @@ I am a **Java Backend Developer** specializing in **Spring Boot & Microservices*
 
 ---
 
-### 📊 GitHub Stats:
+### 📊 My GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=My&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p
+  <img src="https://github-readme-stats.vercel.app/api?username=18471A0551&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=18471A0551&theme=tokyonight" alt="My GitHub Streak" />
+</p>
 
 ---
 
