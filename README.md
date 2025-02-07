@@ -25,7 +25,7 @@ I am a **Java Backend Developer** specializing in **Spring Boot & Microservices*
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharukh&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=My&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p
 
 ---
