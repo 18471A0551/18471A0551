@@ -6,8 +6,8 @@ I am a **Java Backend Developer** specializing in **Spring Boot & Microservices*
 
 ### 🔥 About Me:
 - 💼 Working as a Java Backend Developer
-- 🚀 Experienced in **Spring Boot, Microservices, REST APIs, MySQL, Kafka, MongoDB**
-- 🌱 Currently learning **DSA & System Design**
+- 🚀 My tech stack revolves around **Spring Boot, Microservices, REST APIs, MySQL, Kafka, MongoDB**
+- 🌱 I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.
 - 🎯 Goal: Crack a **product-based company**
 
 ---
