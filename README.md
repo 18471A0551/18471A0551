@@ -8,7 +8,6 @@ I am a **Java Backend Developer** specializing in **Spring Boot & Microservices*
 - 💼 Working as a Java Backend Developer
 - 🚀 My tech stack revolves around **Spring Boot, Microservices, REST APIs, MySQL, Kafka, MongoDB**
 - 🌱 I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.
-- 🎯 Goal: Crack a **product-based company**
 
 ---
 
@@ -27,11 +26,6 @@ I am a **Java Backend Developer** specializing in **Spring Boot & Microservices*
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=18471A0551&show_icons=true&theme=tokyonight" alt="My GitHub Stats" />
 </p>
-
----
-
-### 🔥 Featured Projects:
-- 🚀 [E-commerce Application](https://github.com/your-repo) - Scalable e-commerce platform using Spring Boot & Microservices.
 
 ---
 
